@@ -36,5 +36,42 @@
     "Account",
     "Dashboard",
     "Logout"
+  ],
+  "clients": [
+    {
+      "id": "1",
+      "name": "Артеріум",
+      "products_qty": 3,
+      "views_total": 984,
+      "total_sum": 3012000
+    },
+    {
+      "id": "2",
+      "name": "Байер",
+      "products_qty": 4,
+      "views_total": 1025,
+      "total_sum": 3012000
+    },
+    {
+      "id": "3",
+      "name": "Дарниця",
+      "products_qty": 4,
+      "views_total": 1052,
+      "total_sum": 3012000
+    },
+    {
+      "id": "4",
+      "name": "Санофі",
+      "products_qty": 3,
+      "views_total": 976,
+      "total_sum": 3012000
+    },
+    {
+      "id": "5",
+      "name": "Фармак",
+      "products_qty": 4,
+      "views_total": 1056,
+      "total_sum": 3012000
+    }
   ]
 }
