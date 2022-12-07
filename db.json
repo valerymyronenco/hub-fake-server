@@ -73,5 +73,22 @@
       "views_total": 1056,
       "total_sum": 3012000
     }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Амізон",
+      "client_id": 1
+    },
+    {
+      "id": "1",
+      "name": "Амізон-Макс",
+      "client_id": 2
+    },
+    {
+      "id": "1",
+      "name": "Ацикловір-Фармак",
+      "client_id": 3
+    }
   ]
 }
