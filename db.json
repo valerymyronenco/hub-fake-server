@@ -90,5 +90,79 @@
       "name": "Ацикловір-Фармак",
       "client_id": 3
     }
+  ],
+  "tickets": [
+    {
+      "id": "1",
+      "name": "Амізон",
+      "client_id": 1,
+      "campaign_type_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "flights_qty": 3,
+      "views_per_doctor": 98,
+      "views_total": 984,
+      "status_id": 1
+    },
+    {
+      "id": "2",
+      "name": "Амізон",
+      "client_id": 1,
+      "campaign_type_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "flights_qty": 3,
+      "views_per_doctor": 98,
+      "views_total": 984,
+      "status_id": 1
+    },
+    {
+      "id": "3",
+      "name": "Амізон",
+      "client_id": 1,
+      "campaign_type_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "flights_qty": 3,
+      "views_per_doctor": 98,
+      "views_total": 984,
+      "status_id": 1
+    },
+    {
+      "id": "4",
+      "name": "Амізон",
+      "client_id": 1,
+      "campaign_type_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "flights_qty": 3,
+      "views_per_doctor": 98,
+      "views_total": 984,
+      "status_id": 1
+    },
+    {
+      "id": "5",
+      "name": "Амізон",
+      "client_id": 1,
+      "campaign_type_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "flights_qty": 3,
+      "views_per_doctor": 98,
+      "views_total": 984,
+      "status_id": 1
+    },
+    {
+      "id": "6",
+      "name": "Амізон",
+      "client_id": 1,
+      "campaign_type_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "flights_qty": 3,
+      "views_per_doctor": 98,
+      "views_total": 984,
+      "status_id": 1
+    }
   ]
 }
