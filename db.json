@@ -165,5 +165,73 @@
       "views_total": 984,
       "status_id": 1
     }
+  ],
+  "campaigns": [
+    {
+      "id": "1",
+      "name": "Амізон-100",
+      "client_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "views_plan": 1000,
+      "views_fact": 677,
+      "done_percent": 0.7443,
+      "status_id": 1
+    },
+    {
+      "id": "2",
+      "name": "Амізон-200",
+      "client_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "views_plan": 1000,
+      "views_fact": 677,
+      "done_percent": 0.7443,
+      "status_id": 1
+    },
+    {
+      "id": "3",
+      "name": "Кампанія 3",
+      "client_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "views_plan": 1000,
+      "views_fact": 677,
+      "done_percent": 0.7443,
+      "status_id": 1
+    },
+    {
+      "id": "4",
+      "name": "Кампанія 4",
+      "client_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "views_plan": 1000,
+      "views_fact": 677,
+      "done_percent": 0.7443,
+      "status_id": 1
+    },
+    {
+      "id": "5",
+      "name": "Кампанія 5",
+      "client_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "views_plan": 1000,
+      "views_fact": 677,
+      "done_percent": 0.7443,
+      "status_id": 1
+    },
+    {
+      "id": "6",
+      "name": "Кампанія 6",
+      "client_id": 1,
+      "date_start": "01.01.2022",
+      "date_finish": "01.01.2022",
+      "views_plan": 1000,
+      "views_fact": 677,
+      "done_percent": 0.7443,
+      "status_id": 1
+    }
   ]
 }
