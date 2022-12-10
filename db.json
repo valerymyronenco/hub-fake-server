@@ -24,11 +24,6 @@
       "id": 5,
       "title": "Продукти",
       "url": "/products"
-    },
-    {
-      "id": 6,
-      "title": "Звіти",
-      "url": "/reports"
     }
   ],
   "settings": [
